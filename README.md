@@ -7,9 +7,9 @@
 
 
 <div id="fig:subfigures" class="subfigures" data-caption="Caption for figure">
-![Caption for subfigure (a).]("reduced size/RR3 0_63X BR 3_stitch.png")
+![Caption for subfigure (a).](reduced size/RR3 0_63X BR 3_stitch.png)
 
-![Caption for subfigure (b).]("reduced size/RR3 0_63X FL 3_stitch.png")
+![Caption for subfigure (b).](reduced size/RR3 0_63X FL 3_stitch.png)
 </div>
 
 Reference [@fig:subfigures (a)], or [@fig:subfigures] (a), or @fig:subfigures (b)
