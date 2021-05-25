@@ -11,12 +11,13 @@
 
 ## Nile-red (microscophic) microplastic images
 What dataset we publish
-- Normal mircoscophic images 
-- Fluorescence mircoscophic images 
-- Annotated image
-* MP-VAT
-* MP-ACT
-* Human annotation
+1. Normal mircoscophic images 
+2. Fluorescence mircoscophic images 
+3. Annotated image
+   * MP-VAT
+   * MP-ACT
+   * Human annotation
+
 
 ## Microplastics (MP)
 
