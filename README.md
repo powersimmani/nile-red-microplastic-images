@@ -14,9 +14,9 @@ What dataset we publish
 - Normal mircoscophic images 
 - Fluorescence mircoscophic images 
 - Annotated image
--   MP-VAT
--   MP-ACT
--   Human annotation
+* MP-VAT
+* MP-ACT
+* Human annotation
 
 ## Microplastics (MP)
 
