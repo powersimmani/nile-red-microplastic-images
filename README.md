@@ -10,7 +10,7 @@
 
 
 ## Nile-red (microscophic) microplastic images
-What dataset we publish
+What dataset we publish (this is the spiked image sets)
 1. Normal mircoscophic images 
 2. Fluorescence mircoscophic images 
 3. Annotated images
