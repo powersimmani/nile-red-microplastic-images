@@ -13,7 +13,7 @@
 What dataset we publish
 1. Normal mircoscophic images 
 2. Fluorescence mircoscophic images 
-3. Annotated image
+3. Annotated images
    * MP-VAT
    * MP-ACT
    * Human annotation
