@@ -4,7 +4,6 @@
 
 ## Nile-red (microscophic) microplastic images
 
-![RCT_description](./reduced_size/RR1_0_63X_BR_1_stitch.png)
 
 <div id="fig:subfigures" class="subfigures" data-caption="Caption for figure">
 ![Caption for subfigure (a).](reduced_size/RR3_0_63X_BR_3_stitch.png)
