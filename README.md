@@ -2,7 +2,7 @@
 
 
 
-## Nile-red (microscophic) microplastic images
+## Images of Nile red-stained microplastics
 
 
 ![Caption for subfigure (a).](sample_image.png)
@@ -20,7 +20,7 @@ The microscopic image could be captured and microplastics can be quantified by m
 
 
 
-## Nile-red (microscophic) microplastic images (This dataset)
+## Nile red-stained microplastics (This dataset)
 
 Using Nile red, pieces of HDPE (high-density polyethylene, 500 μm) and PET (polyethylene terephthalate, 120 μm) were stained and subsequently visualized through fluorescence microscopy. A total of 5 different images were generated and used to calculate for the recovery rate.    
 
