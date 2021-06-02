@@ -8,24 +8,28 @@
 ![Caption for subfigure (a).](sample_image.png)
 
 
+## Microplastics
 
-## Nile-red (microscophic) microplastic images
-What dataset we publish (this is the spiked image sets)
+Microplastics are small pieces of synthetic polymers that are less than 5 mm. They mainly come from tiny plastics used in manufacturing of commercial products (such as cosmetics and clothing) and the breakdown of large plastic wastes. They are widespread and abundant especially in the aquatic environment. Every year, an estimated 68,500 to 275,000 tons of microplastics end up in our oceans.
+
+
+## Nile red staining and quantification of microplastics
+
+Through Nile red staining, microplastics can be easily visualized under a fluorescence microscope. 
+The microscopic image could be captured and microplastics can be quantified by manually counting the number of fluorescent items in the image or through the use of image processing software. Since manual counting is time-consuming, prone to bias, and prone to error, other means of automated quantification is being explored.
+
+
+
+## Nile-red (microscophic) microplastic images (This dataset)
+
+Using Nile red, pieces of HDPE (high-density polyethylene, 500 μm) and PET (polyethylene terephthalate, 120 μm) were stained and subsequently visualized through fluorescence microscopy. A total of 5 different images were generated and used to calculate for the recovery rate.    
+
 1. Normal mircoscophic images 
 2. Fluorescence mircoscophic images 
 3. Annotated images
    * MP-VAT
    * MP-ACT
-   * Human annotation
-
-
-## Microplastics (MP)
-
-some contents.
-
-## Nile-red dye image and counting MP contamination
-
-some contents.
+   * Human annotation (3 annotators)
 
 
 ## Download 
