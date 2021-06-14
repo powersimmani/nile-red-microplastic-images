@@ -46,3 +46,9 @@ Baek, J. Y., de Guzman, M. K., Park, H. M., Park, S., Shin, B., Velickovic, T. C
 ##### The original paper can be found at the following URL
 
 https://www.springerprofessional.de/en/developing-a-segmentation-model-for-microscopic-images-of-microp/18900224
+
+
+## References
+
+MP-VAT & MP ACT
+
