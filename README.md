@@ -1,5 +1,3 @@
-**** This GitHub page is not activated yet; this GitHub page is only used for testing at the moment. We will make this GitHub page publicly available after July 1st. ****
-
 
 
 ## Images of Nile red-stained microplastics
@@ -47,6 +45,7 @@ Baek, J. Y., de Guzman, M. K., Park, H. M., Park, S., Shin, B., Velickovic, T. C
 
 https://www.springerprofessional.de/en/developing-a-segmentation-model-for-microscopic-images-of-microp/18900224
 
+!!! This section will be updated as additional studies are published.
 
 ## References
 
